@@ -1,0 +1,1 @@
+print("Hello! My Motor Fault ML project has started.")
